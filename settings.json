@@ -1,18 +1,18 @@
 {
     "bot-account":{ 
-        "username": "Khubo",
+        "username": "Lavina",
         "password": "",
         "type": "mojang"
     },
 
     "server":{
-        "ip": "frozygg.survival-zone.com",
-        "port": 25827,
-        "version": "1.17.1"
+        "ip": "plays.bebeksmp.xyz",
+        "port": 25565,
+        "version": "1.12.2"
     },
 
     "position":{
-        "enabled": true,
+        "enabled": false,
         "x": 9999,
         "y": 9999,
         "z": 9999
@@ -20,17 +20,17 @@
 
     "utils":{
         "auto-auth":{
-            "enabled": false,
-            "password": "12345678"
+            "enabled": true,
+            "password": "rehan123"
         },
 
         "anti-afk":{
-            "enabled": true,
+            "enabled": false,
             "sneak": true
         },
 
         "chat-messages":{
-            "enabled": true,
+            "enabled": false,
             "repeat": true,
             "repeat-delay": 360,
 
